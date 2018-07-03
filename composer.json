@@ -1,12 +1,12 @@
 {
-    "name": "omines/oauth2-harvest",
+    "name": "xvilo/oauth2-harvest",
     "description": "Harvest OAuth 2.0 Client Provider for The PHP League OAuth2-Client",
     "license": "MIT",
     "authors": [
         {
-            "name": "Niels Keurentjes",
-            "email": "niels.keurentjes@omines.com",
-            "homepage": "https://www.omines.nl/"
+            "name": "Sem Schilder",
+            "email": "me@sem.computer",
+            "homepage": "https://sem.design/"
         }
     ],
     "keywords": [
